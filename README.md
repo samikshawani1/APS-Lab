@@ -1,5 +1,4 @@
 # APS-Lab
-# APS Lab
 
 This repository contains the experiments, programs, and practical work performed as part of the APS Lab.
 
